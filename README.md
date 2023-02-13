@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-<h3><b>Microverse README Template</b></h3>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -69,8 +67,6 @@ This project was built using React.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -94,8 +90,6 @@ cd mathMagicians
 
 Install this project with:
 
-Example command:
-
 ```sh
 npm install
 ```
@@ -103,8 +97,6 @@ npm install
 ### Usage
 
 To run the project, execute the following command:
-
-Example command:
 
 ```sh
 npm start
@@ -123,6 +115,13 @@ npm start
 - LinkedIn: [@shasherazi](https://linkedin.com/in/shasherazi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Future features -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Add more functionality to the calculator.
+- Add more math quotes.
 
 <!-- CONTRIBUTING -->
 
