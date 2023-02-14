@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import calculate from '../logic/calculate';
-// import operate from '../logic/operate';
 import '../styles/calculator.css';
 import NumberBtn from './buttons/NumberBtn';
 import OperationBtn from './buttons/OperationBtn';
