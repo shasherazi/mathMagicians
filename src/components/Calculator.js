@@ -15,7 +15,6 @@ const Calculator = () => {
 
   const handleClick = (e) => {
     setDataObj(calculate(dataObj, e.target.textContent));
-    console.log(dataObj, e.target.textContent);
   };
 
   return (
