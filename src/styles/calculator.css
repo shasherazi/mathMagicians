@@ -1,3 +1,7 @@
+.calculator {
+  flex: 1;
+}
+
 .calculator-display {
   background-color: #858694;
   color: #fff;
