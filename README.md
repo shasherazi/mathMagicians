@@ -59,7 +59,7 @@ This project was built using React.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Under Construction
+You can see the live demo (here)[https://math-magicians-nmdy.onrender.com/].
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
