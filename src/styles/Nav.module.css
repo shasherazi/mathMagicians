@@ -2,6 +2,6 @@
   display: flex;
   list-style-type: none;
   gap: 20px;
-  justify-content: end;
+  justify-content: flex-end;
   padding: 10px 30px;
 }
