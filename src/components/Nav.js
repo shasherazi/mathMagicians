@@ -4,6 +4,7 @@ import styles from '../styles/Nav.module.css';
 const Nav = () => (
   <>
     <nav className={styles.nav}>
+      <h1 className={styles.title}>Math Magicians</h1>
       <ul className={styles.navList}>
         <li>
           <Link to="/">Home</Link>
