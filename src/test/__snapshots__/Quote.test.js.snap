@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="quoteDiv"
+>
+  <h2
+    className="quote"
+  >
+    If I could prove by logic that you would die in five minutes, I should be sorry you were going to die, but my sorrow would be very much mitigated by pleasure in the proof.
+    <br />
+    <br />
+    - G. H. Hardy to Bertrand Russell
+  </h2>
+</div>
+`;
