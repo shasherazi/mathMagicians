@@ -1,7 +1,7 @@
 import renderer from 'react-test-renderer';
-import Quote from '../components/Quote';
+import Display from '../components/Display';
 
 it('renders correctly', () => {
-  const tree = renderer.create(<Quote />).toJSON();
+  const tree = renderer.create(<Display />).toJSON();
   expect(tree).toMatchSnapshot();
 });

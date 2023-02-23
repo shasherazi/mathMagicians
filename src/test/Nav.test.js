@@ -1,7 +1,7 @@
 import renderer from 'react-test-renderer';
-import Quote from '../components/Quote';
+import Nav from '../components/Nav';
 
 it('renders correctly', () => {
-  const tree = renderer.create(<Quote />).toJSON();
+  const tree = renderer.create(<Nav />).toJSON();
   expect(tree).toMatchSnapshot();
 });
