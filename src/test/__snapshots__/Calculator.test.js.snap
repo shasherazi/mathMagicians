@@ -1,0 +1,169 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="calculator"
+>
+  <div
+    className="calculator-display"
+  >
+    0
+  </div>
+  <div
+    className="calculator-buttons"
+  >
+    <button
+      className="operation-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      className="operation-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      className="operation-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      %
+    </button>
+    <button
+      className="operation-btn calculator-button right"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      className="number-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      7
+    </button>
+    <button
+      className="number-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      8
+    </button>
+    <button
+      className="number-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      9
+    </button>
+    <button
+      className="operation-btn calculator-button right"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      x
+    </button>
+    <button
+      className="number-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      4
+    </button>
+    <button
+      className="number-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      5
+    </button>
+    <button
+      className="number-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      6
+    </button>
+    <button
+      className="operation-btn calculator-button right"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+    <button
+      className="number-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      1
+    </button>
+    <button
+      className="number-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      2
+    </button>
+    <button
+      className="number-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      3
+    </button>
+    <button
+      className="operation-btn calculator-button right"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      +
+    </button>
+    <button
+      className="number-btn calculator-button"
+      id="zero"
+      onClick={[Function]}
+      type="button"
+    >
+      0
+    </button>
+    <button
+      className="operation-btn calculator-button"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      .
+    </button>
+    <button
+      className="operation-btn calculator-button right"
+      id={null}
+      onClick={[Function]}
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;
